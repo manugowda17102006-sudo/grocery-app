@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.sqlite3
+*.db
+*.env
+venv/
+.env.local
+.env.*.local
+
+# Node
+node_modules/
+pnpm-lock.yaml
+yarn.lock
+package-lock.json
+frontend/dist/
+frontend/.env
+backend/.env
+
+# IDE
+.vscode/
+.DS_Store
+
+# Data and model artifacts
+backend/ml_model.pkl
+backend/__pycache__/
+frontend/.cache/

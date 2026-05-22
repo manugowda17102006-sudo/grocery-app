@@ -1,0 +1,21 @@
+id,name,category,brand,price,description,image_url
+1,Fresh Apples,Fruits,Orchard Farm,2.99,Crisp red apples for snacking,https://picsum.photos/seed/fresh-apples/400/260
+2,Whole Milk,Dairy,DairyPure,3.49,Rich whole milk for cereal and cooking,https://picsum.photos/seed/whole-milk/400/260
+3,Organic Bananas,Fruits,Green Valley,1.99,Soft and sweet organic bananas,https://picsum.photos/seed/organic-bananas/400/260
+4,Greek Yogurt,Dairy,Chobani,1.29,Protein-packed plain yogurt,https://picsum.photos/seed/greek-yogurt/400/260
+5,Brown Bread,Bakery,Healthy Harvest,2.49,Whole grain bread for sandwiches,https://picsum.photos/seed/brown-bread/400/260
+6,Tomato Sauce,Pantry,Hunt's,2.79,Classic tomato sauce for pasta,https://picsum.photos/seed/tomato-sauce/400/260
+7,Large Eggs,Dairy,Doe Valley,2.99,Dozen free-range eggs,https://picsum.photos/seed/large-eggs/400/260
+8,Cheddar Cheese,Dairy,Sharp Farms,4.99,Aged cheddar cheese block,https://picsum.photos/seed/cheddar-cheese/400/260
+9,Brown Rice,Pantry,Nature's Best,3.69,Healthy whole grain rice,https://picsum.photos/seed/brown-rice/400/260
+10,Orange Juice,Beverages,Tropicana,3.99,Fresh squeezed orange juice,https://picsum.photos/seed/orange-juice/400/260
+11,Chicken Breast,Meat,Farm Fresh,7.49,Boneless skinless chicken breasts,https://picsum.photos/seed/chicken-breast/400/260
+12,Spinach,Produce,Leafy Goodness,2.19,Fresh baby spinach leaves,https://picsum.photos/seed/spinach/400/260
+13,Peanut Butter,Pantry,Skippy,4.29,Creamy peanut butter spread,https://picsum.photos/seed/peanut-butter/400/260
+14,Almond Milk,Dairy,Silk,3.49,Dairy-free almond milk,https://picsum.photos/seed/almond-milk/400/260
+15,Carrot Sticks,Produce,Crunchy Veggies,2.59,Ready-to-eat carrot sticks,https://picsum.photos/seed/carrot-sticks/400/260
+16,Granola Bars,Snacks,Nature Valley,3.99,Whole grain granola bars,https://picsum.photos/seed/granola-bars/400/260
+17,Toilet Paper,Household,SoftCare,5.99,12-roll soft toilet paper,https://picsum.photos/seed/toilet-paper/400/260
+18,Shampoo,Personal Care,Head & Shoulders,6.49,Anti-dandruff shampoo,https://picsum.photos/seed/shampoo/400/260
+19,Coffee Beans,Beverages,Starbrew,8.99,Medium roast coffee beans,https://picsum.photos/seed/coffee-beans/400/260
+20,Chocolate Cookies,Snacks,Mondelez,3.79,Crunchy chocolate cookies,https://picsum.photos/seed/chocolate-cookies/400/260
