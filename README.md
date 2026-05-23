@@ -75,3 +75,5 @@ Use the sample account to test the app:
 - The backend uses a bearer token API key loaded from `.env` for protected endpoints.
 - The ML training script uses the grocery dataset to build a simple recommendation model.
 - The frontend calls the backend API to fetch products, authenticate users, and request recommendations.
+
+  vercel link: https://grocery-app-eta-plum.vercel.app/
